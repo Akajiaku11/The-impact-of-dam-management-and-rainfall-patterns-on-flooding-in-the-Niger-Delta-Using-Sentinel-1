@@ -1,4 +1,12 @@
-
+var aoi = ee.Geometry.Polygon([
+  [
+    [3.03125, 4.5],
+    [8.03125, 4.5],
+    [8.03125, 7.5],
+    [3.03125, 7.5],
+    [3.03125, 4.5]
+  ]
+]);
 // Define the time period for analysis
 var startDate = '2022-09-20';
 var endDate = '2022-10-28';
