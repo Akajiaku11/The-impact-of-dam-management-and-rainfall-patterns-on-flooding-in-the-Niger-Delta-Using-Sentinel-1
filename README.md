@@ -60,5 +60,5 @@ This project is licensed under the MIT License. See `LICENSE` for details.
 Special thanks to the organizations and individuals who provided the datasets and tools that made this analysis possible.
 
 ---
-For any questions or additional information, feel free to reach out via the issues page or email [desmondeteh@gmail.com].
+For any questions or additional information, feel free to reach out via the issues page or email [akajiakuflowz@gmail.com ].
 
